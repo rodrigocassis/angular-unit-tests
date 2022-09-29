@@ -1,0 +1,26 @@
+-- Piramide de testes
+
+-- Cobertura de Testes
+
+-- Boas Práticas
+    - cenários independentes
+    - Dependa de elementos estáveis
+
+-- Estrutura do teste
+    - beaforeEach
+    - afterEach
+    - describe
+    - it
+
+-- Configurar os testes
+    TestBed - Configuração prévia para realizar os testes 
+            - biblioteca de componentes
+            - MockComponent
+            - providers
+
+-- Estrutura    
+    -- Arrange
+    -- Act
+    -- Assert
+
+SpyOn
